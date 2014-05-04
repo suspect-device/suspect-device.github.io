@@ -377,6 +377,7 @@ hr {
     color: #f9f6f2;
     background: #3c3a32;
     background-size: 100%;
+    background: url('../tile-sets/super.png');
     font-size: 30px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
